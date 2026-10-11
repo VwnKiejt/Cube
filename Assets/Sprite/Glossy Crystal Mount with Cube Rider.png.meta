@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 87b1d5975bcc55c4caa3fd33ae4872b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8892955800169277923
+    second: Glossy Crystal Mount with Cube Rider_0
+  - first:
+      213: 5442259374372164992
+    second: Glossy Crystal Mount with Cube Rider_1
+  - first:
+      213: 5448070975527489210
+    second: Glossy Crystal Mount with Cube Rider_2
+  - first:
+      213: -1963093810653044026
+    second: Glossy Crystal Mount with Cube Rider_3
+  - first:
+      213: -6619391012015576834
+    second: Glossy Crystal Mount with Cube Rider_4
+  - first:
+      213: -4288588947777176936
+    second: Glossy Crystal Mount with Cube Rider_5
+  - first:
+      213: 2982167776763976778
+    second: Glossy Crystal Mount with Cube Rider_6
+  - first:
+      213: -1076568218558319400
+    second: Glossy Crystal Mount with Cube Rider_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1028
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Glossy Crystal Mount with Cube Rider_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 1511
+        height: 1001
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9e650fe202a6b70800000000000000
+      internalID: 8892955800169277923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Crystal Mount with Cube Rider_1
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 682
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0851ef0111ac68b40800000000000000
+      internalID: 5442259374372164992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Crystal Mount with Cube Rider_2
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 691
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe8e67efaf6b9b40800000000000000
+      internalID: 5448070975527489210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Crystal Mount with Cube Rider_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 379
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2e1438490b1c4e0800000000000000
+      internalID: -1963093810653044026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Crystal Mount with Cube Rider_4
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 22
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8e56312f23324a0800000000000000
+      internalID: -6619391012015576834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Crystal Mount with Cube Rider_5
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 18
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a331ce21fdb74c0800000000000000
+      internalID: -4288588947777176936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Crystal Mount with Cube Rider_6
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 31
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c12a2fac9c26920800000000000000
+      internalID: 2982167776763976778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Crystal Mount with Cube Rider_7
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 29
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d43b5cb8e24f01f0800000000000000
+      internalID: -1076568218558319400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Glossy Crystal Mount with Cube Rider_0: 8892955800169277923
+      Glossy Crystal Mount with Cube Rider_1: 5442259374372164992
+      Glossy Crystal Mount with Cube Rider_2: 5448070975527489210
+      Glossy Crystal Mount with Cube Rider_3: -1963093810653044026
+      Glossy Crystal Mount with Cube Rider_4: -6619391012015576834
+      Glossy Crystal Mount with Cube Rider_5: -4288588947777176936
+      Glossy Crystal Mount with Cube Rider_6: 2982167776763976778
+      Glossy Crystal Mount with Cube Rider_7: -1076568218558319400
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

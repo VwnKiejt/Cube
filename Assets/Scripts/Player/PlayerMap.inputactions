@@ -1,0 +1,36 @@
+{
+    "version": 1,
+    "name": "PlayerMap",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "b819582c-2809-418a-9604-07d0927676e4",
+            "actions": [
+                {
+                    "name": "Jump",
+                    "type": "Button",
+                    "id": "72e2db36-9111-4419-bf6d-a857bf260f24",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6c419a4d-1eba-4bfa-a5bd-7923ab20d2d0",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

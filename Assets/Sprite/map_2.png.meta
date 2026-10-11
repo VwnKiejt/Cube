@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 356b3035ece55c9498cfb8d4ecff294b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2505128802583380795
+    second: stair_0
+  - first:
+      213: 7401554650313762905
+    second: stair_1
+  - first:
+      213: -4852303811576645771
+    second: stair_2
+  - first:
+      213: -4008946060995214741
+    second: stair_3
+  - first:
+      213: 3284994853916361435
+    second: stair_4
+  - first:
+      213: 3285502402405469286
+    second: stair_5
+  - first:
+      213: 1347223386265614946
+    second: stair_6
+  - first:
+      213: -7946667663015264571
+    second: stair_7
+  - first:
+      213: 7433853508742161863
+    second: stair_8
+  - first:
+      213: 6611985219843502755
+    second: stair_9
+  - first:
+      213: -2175234536540062192
+    second: stair_10
+  - first:
+      213: -3439656490917981126
+    second: stair_11
+  - first:
+      213: -4100764840245912535
+    second: stair_12
+  - first:
+      213: 149945789009289499
+    second: stair_13
+  - first:
+      213: 8701334318310291297
+    second: stair_14
+  - first:
+      213: 2525600346736591063
+    second: stair_15
+  - first:
+      213: -5561894107579142924
+    second: stair_16
+  - first:
+      213: -6989691369538895335
+    second: stair_17
+  - first:
+      213: -5585466817926007214
+    second: stair_18
+  - first:
+      213: -7706275520602359232
+    second: stair_19
+  - first:
+      213: 6469832851410844544
+    second: stair_20
+  - first:
+      213: 542211109737385193
+    second: stair_21
+  - first:
+      213: 7761564196018976110
+    second: stair_22
+  - first:
+      213: 914649751778663238
+    second: stair_23
+  - first:
+      213: -5236380152396270871
+    second: stair_24
+  - first:
+      213: 4089266310505808036
+    second: stair_25
+  - first:
+      213: -7486417156558035027
+    second: stair_26
+  - first:
+      213: 7562043852938918646
+    second: stair_27
+  - first:
+      213: -6140157647960923648
+    second: stair_28
+  - first:
+      213: -8144419070306501853
+    second: stair_29
+  - first:
+      213: -4817167725311584509
+    second: stair_30
+  - first:
+      213: -3820596423120085650
+    second: stair_31
+  - first:
+      213: 2830404879977733873
+    second: stair_32
+  - first:
+      213: -5905389725903698329
+    second: stair_33
+  - first:
+      213: 3875613437536666288
+    second: stair_34
+  - first:
+      213: -1018451687869034171
+    second: stair_35
+  - first:
+      213: -7325833463094848294
+    second: stair_36
+  - first:
+      213: -4527053504597798967
+    second: stair_37
+  - first:
+      213: -8682739179684154874
+    second: stair_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 492
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stair_0
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 830
+        width: 553
+        height: 532
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33059a8f5104c220800000000000000
+      internalID: 2505128802583380795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stair_22
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 168
+        width: 505
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65f915838d96bb60800000000000000
+      internalID: 7761564196018976110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8bde71d5f1eba2c44860fc577a9ff56e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      stair_0: 2505128802583380795
+      stair_1: 7401554650313762905
+      stair_10: -2175234536540062192
+      stair_11: -3439656490917981126
+      stair_12: -4100764840245912535
+      stair_13: 149945789009289499
+      stair_14: 8701334318310291297
+      stair_15: 2525600346736591063
+      stair_16: -5561894107579142924
+      stair_17: -6989691369538895335
+      stair_18: -5585466817926007214
+      stair_19: -7706275520602359232
+      stair_2: -4852303811576645771
+      stair_20: 6469832851410844544
+      stair_21: 542211109737385193
+      stair_22: 7761564196018976110
+      stair_23: 914649751778663238
+      stair_24: -5236380152396270871
+      stair_25: 4089266310505808036
+      stair_26: -7486417156558035027
+      stair_27: 7562043852938918646
+      stair_28: -6140157647960923648
+      stair_29: -8144419070306501853
+      stair_3: -4008946060995214741
+      stair_30: -4817167725311584509
+      stair_31: -3820596423120085650
+      stair_32: 2830404879977733873
+      stair_33: -5905389725903698329
+      stair_34: 3875613437536666288
+      stair_35: -1018451687869034171
+      stair_36: -7325833463094848294
+      stair_37: -4527053504597798967
+      stair_38: -8682739179684154874
+      stair_4: 3284994853916361435
+      stair_5: 3285502402405469286
+      stair_6: 1347223386265614946
+      stair_7: -7946667663015264571
+      stair_8: 7433853508742161863
+      stair_9: 6611985219843502755
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
